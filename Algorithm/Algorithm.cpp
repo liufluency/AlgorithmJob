@@ -7,7 +7,8 @@
 int main()
 {
     CTest testObj;
-    testObj.testSelectSort(100, 100);
+    //testObj.testSelectSort(100, 100);
+    testObj.testMergeSort(100, 200);
     std::cout << "Hello World!\n";
 }
 
